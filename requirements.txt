@@ -1,9 +1,16 @@
 annotated-types==0.7.0
 beautifulsoup4==4.12.3
+blinker==1.8.2
 certifi==2024.8.30
 charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+Flask==3.0.3
 idna==3.8
+itsdangerous==2.2.0
+Jinja2==3.1.4
 markdownify==0.11.6
+MarkupSafe==2.1.5
 numpy==1.26.3
 pandas==2.2.2
 pydantic==2.8.2
@@ -19,3 +26,4 @@ tls-client==1.0.1
 typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
+Werkzeug==3.0.4
